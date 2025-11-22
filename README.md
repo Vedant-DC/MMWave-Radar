@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.9-red.svg)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🎯 Assignment Overview
 
@@ -208,4 +207,5 @@ For questions about this implementation:
 *Completed: November 22, 2025*  
 *Development time: <24 hours*  
 *All assignment requirements fulfilled*
+
 
